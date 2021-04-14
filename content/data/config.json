@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "header": {
         "logo": "images/vise-logo-black.svg",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Features",
