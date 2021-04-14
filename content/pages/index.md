@@ -12,7 +12,7 @@ sections:
         style: primary
       - label: Second button
         url: '#'
-        style: link
+        style: secondary
         new_window: false
         no_follow: false
         type: action
