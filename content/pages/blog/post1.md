@@ -1,7 +1,8 @@
 ---
 title: This is a po
 date: '2021-04-14'
-categories: []
+categories:
+  - content/data/categories/general.yaml
 tags: []
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
