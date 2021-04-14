@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Build better portfolios
+    title: Build better portfolios WOW
     subtitle: >-
       Our cutting-edge AI helps you create, manage, and automate every aspect of
       investment management
