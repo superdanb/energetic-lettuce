@@ -22,7 +22,7 @@ sections:
       background_image: images/bc.png
   - type: features_section
     features:
-      - title: Easy custom indexing
+      - title: Easy custom indexing Change
         content: >
           Create personalized strategies that are as unique as each of your
           clients
