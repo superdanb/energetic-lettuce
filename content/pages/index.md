@@ -27,7 +27,7 @@ sections:
           Create personalized strategies that are as unique as each of your
           clients
         align: left
-        image: images/feature.svg
+        image: images/dianne-ameter.jpg
         image_alt: Feature 2 placeholder image
         image_position: right
       - title: Automated solutions
