@@ -26,7 +26,7 @@ sections:
         content: >
           Create personalized strategies that are as unique as each of your
           clients
-        align: center
+        align: right
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
         image_position: right
