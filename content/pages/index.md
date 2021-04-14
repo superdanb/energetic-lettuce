@@ -10,7 +10,7 @@ sections:
       - label: Get a demo
         url: /features
         style: primary
-      - label: lorem-ipsum
+      - label: Second button
         url: '#'
         style: link
         new_window: false
