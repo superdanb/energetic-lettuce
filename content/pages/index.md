@@ -29,7 +29,7 @@ sections:
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
-        image_position: right
+        image_position: left
       - title: Automated solutions
         content: >
           Take back the time you’ve sunk into optimizing and rebalancing your
