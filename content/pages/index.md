@@ -22,14 +22,6 @@ sections:
       background_image: images/bc.png
   - type: features_section
     features:
-      - title: Easy custom indexing Change
-        content: >
-          Create personalized strategies that are as unique as each of your
-          clients
-        align: left
-        image: images/feature.svg
-        image_alt: Feature 2 placeholder image
-        image_position: left
       - title: Automated solutions
         content: >
           Take back the time you’ve sunk into optimizing and rebalancing your
@@ -38,6 +30,14 @@ sections:
         image: images/feature2.png
         image_alt: Feature 3 placeholder image
         image_position: right
+      - title: Easy custom indexing Change
+        content: >
+          Create personalized strategies that are as unique as each of your
+          clients
+        align: left
+        image: images/feature.svg
+        image_alt: Feature 2 placeholder image
+        image_position: left
   - type: cta_section
     title: Ready for the future of investing?
     actions:
